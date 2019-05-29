@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Build-1.0">
+	<test name="Build-1.0 Results">
+		<classes>
+			<class name="testNG.AnnaotationRules1"></class>
+			<class name="testNG.FB_login"></class>
+			<class name="testNG.Sample1"></class>
+			<class name="testNG.TTD_Registration"></class>
+		</classes>
+	</test>
+</suite>

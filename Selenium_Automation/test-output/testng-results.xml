@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="143774" started-at="2019-05-08T02:40:17Z" finished-at="2019-05-08T02:42:41Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="143774" started-at="2019-05-08T02:40:17Z" finished-at="2019-05-08T02:42:41Z">
+      <class name="testNG.DataProvider_Sample">
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String)[pri:0, instance:testNG.DataProvider_Sample@29ee9faa]" name="f" duration-ms="58353" started-at="2019-05-08T02:40:17Z" data-provider="nalini" finished-at="2019-05-08T02:41:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Test@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[asdf@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String)[pri:0, instance:testNG.DataProvider_Sample@29ee9faa]" name="f" duration-ms="39786" started-at="2019-05-08T02:41:15Z" data-provider="nalini" finished-at="2019-05-08T02:41:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sample@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Jan@2019]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String)[pri:0, instance:testNG.DataProvider_Sample@29ee9faa]" name="f" duration-ms="45569" started-at="2019-05-08T02:41:55Z" data-provider="nalini" finished-at="2019-05-08T02:42:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sadf@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Summer@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- testNG.DataProvider_Sample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

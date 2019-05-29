@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Nalini">
+  <test thread-count="5" name="Build-1.1 results">
+    <classes>
+      <class name="testNG.Sample1"/>
+      <class name="testNG.AnnaotationRules1"/>
+      <class name="testNG.TTD_Registration"/>
+      <class name="testNG.FB_login"/>
+    </classes>
+  </test> <!-- Build-1.1 results -->
+</suite> <!-- Nalini -->
